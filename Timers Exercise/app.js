@@ -29,6 +29,3 @@ function randomGame() {
     }
   }, 1000);
 }
-
-
-randomGame();
